@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+langchain-google-vertexai
+langchain_mistralai
+langchain-together
+langchain-cerebras
+langchain_huggingface 
+langchain-cohere
+langchain_ai21 
+langchain-openai
+python-dotenv
+langchain_core
+langserve
+fastapi
+uvicorn
+sse_starlette
